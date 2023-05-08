@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on an automated school elections system.<br>👯 I’m looking to collaborate on anything interesting :)<br>🤝 I’m looking for help with learning Mandarin Chinese.<br>🌱 I’m currently learning Distributed Computing.<br>💬 Ask me about anything!<br>
+🔭 I’m currently working on an a web scraping bot.<br>👯 I’m looking to collaborate on anything interesting :)<br>🌱 I’m currently learning Distributed Computing.<br>💬 Ask me about anything!<br>
 
 
 ## 🌐 Socials:
